@@ -1,0 +1,31 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiwonsim/profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiwonsim/profile/issues"
+  },
+  "homepage": "https://github.com/jiwonsim/profile#readme",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "jquery": "^3.2.1",
+    "node-sass": "^4.5.3"
+  },
+  "devDependencies": {
+    "gulp-sass": "^3.1.0"
+  }
+}
